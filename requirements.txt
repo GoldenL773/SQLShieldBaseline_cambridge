@@ -1,0 +1,7 @@
+transformers>=4.39.2
+datasets>=2.16.1
+accelerate>=0.28.0
+huggingface-hub>=0.20.1
+openai>=1.0.0
+python-dotenv>=1.0.0
+torch

@@ -1,0 +1,15 @@
+{
+  "mode": "full",
+  "total_samples": 40,
+  "errors_skipped": 0,
+  "TP": 15,
+  "TN": 25,
+  "FP": 0,
+  "FN": 0,
+  "security_accuracy": 1.0,
+  "attack_block_rate": 1.0,
+  "false_positive_rate": 0.0,
+  "avg_nlq_shield_latency_ms": 31.61,
+  "avg_sql_shield_latency_ms": 39.75,
+  "avg_total_latency_ms": 56.48
+}
